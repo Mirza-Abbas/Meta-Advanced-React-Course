@@ -1,0 +1,8 @@
+Map()
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+
+Rendering lists on official React docs website
+https://beta.reactjs.org/learn/rendering-lists#rendering-data-from-arrays
+
+React keys on official docs
+https://beta.reactjs.org/learn/rendering-lists#where-to-get-your-key
