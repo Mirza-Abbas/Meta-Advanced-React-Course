@@ -1,0 +1,11 @@
+The article on destructuring assignment describes how the destructuring assignment, which allows you to get values out of the array that gets returned when the useState hook is invoked, works in more detail. 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+
+The read props inside the child component link on the Beta version of React docs discusses how to use destructuring assignment to get values out of the props object. 
+https://beta.reactjs.org/learn/passing-props-to-a-component#step-2-read-props-inside-the-child-component
+
+The useState reference on official React docs website helps you understand how to work with this hook and some of the caveats involved. 
+https://beta.reactjs.org/apis/react/useState#usestate
+
+The useEffect reference on official React docs website helps you understand the syntax of this hook and goes into some depth to explain how to use and troubleshoot the useEffect hook. 
+https://beta.reactjs.org/apis/react/useEffect#useeffect
